@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hadrians-wall-helper/static/css/main.a7eabf50.css",
-    "main.js": "/hadrians-wall-helper/static/js/main.80d972a3.js",
+    "main.js": "/hadrians-wall-helper/static/js/main.b8593769.js",
     "static/js/787.5c24047d.chunk.js": "/hadrians-wall-helper/static/js/787.5c24047d.chunk.js",
     "index.html": "/hadrians-wall-helper/index.html",
     "main.a7eabf50.css.map": "/hadrians-wall-helper/static/css/main.a7eabf50.css.map",
-    "main.80d972a3.js.map": "/hadrians-wall-helper/static/js/main.80d972a3.js.map",
+    "main.b8593769.js.map": "/hadrians-wall-helper/static/js/main.b8593769.js.map",
     "787.5c24047d.chunk.js.map": "/hadrians-wall-helper/static/js/787.5c24047d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7eabf50.css",
-    "static/js/main.80d972a3.js"
+    "static/js/main.b8593769.js"
   ]
 }
